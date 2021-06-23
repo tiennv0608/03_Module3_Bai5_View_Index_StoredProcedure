@@ -43,5 +43,3 @@ CALL SetCounter(@counter,5);
 SELECT @counter;
 
 
-
-
